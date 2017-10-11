@@ -1,6 +1,6 @@
 
 # DBConfig
-A command line tool to help you get your node database tools up and running!
+A command line tool to help you get your node database tools up and runnings!
 
 ## Currently works with:
  - KnexJS
